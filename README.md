@@ -64,7 +64,7 @@ If you know what you're doing, feel free to change it to whatever data type you 
 After that you can simply copy the create statement and paste it into Postgres to create the table.
 
 ## Import data to PostgreSQL
-For this part you'd need to do it in Postgres command line mode. I also highly recommend installing the pgAmin tool beforehand to create your database.
+For this part you'd need to do it in Postgres command line mode. I also highly recommend installing the pgAdmin tool beforehand to create your database.
 
 In the command line type in:
 `psql -U postgres`
